@@ -1,8 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿//using System;
+//using System.Collections.Generic;
+//using System.Linq;
+//using System.Text;
+//using System.Threading.Tasks;
 
 //namespace assignment1
 //{
@@ -19,6 +19,12 @@ using System.Threading.Tasks;
 //                if (no > 0)
 //                {
 //                    Console.WriteLine($"entered no {no} is positive");
+//                }
+
+//                else if (no == 0)
+//                {
+//                    Console.WriteLine($"entered no {no} is equal to zero");
+
 //                }
 //                else
 //                {

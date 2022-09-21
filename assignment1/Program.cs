@@ -1,18 +1,19 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿//using System;
+//using System.Collections.Generic;
+//using System.Linq;
+//using System.Text;
+//using System.Threading.Tasks;
 
 //namespace assignment1
 //{
 //    internal class Program
+
 //    {
 //        static void Main(string[] args)
 //        {
-//            int no= 6;
+//            int no = 6;
 
-//            if (no % 2 == 0) 
+//            if (no % 2 == 0)
 //            {
 //                Console.WriteLine($"given no {no} is even");
 
@@ -22,7 +23,7 @@ using System.Threading.Tasks;
 //            {
 //                Console.WriteLine($"given no {no} is odd");
 //            }
-            
+
 //        }
 //    }
 //}
